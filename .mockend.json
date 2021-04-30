@@ -1,5 +1,5 @@
 {
-  "member": {
+  "Member": {
     "id": "int",
     "name": "string",
     "age": "int",
