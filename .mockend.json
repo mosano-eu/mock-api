@@ -6,4 +6,34 @@
     "job": "string",
     "project": "string"
   }
+},
+{
+  "data": 
+    {
+      "members":
+      [
+        {
+          "id": 1,
+          "name": "Nelson Novais",
+          "age": 33,
+          "job": "Operations",
+          "project": "Mosano",
+          "image":
+        },
+        {
+          "id": 2,
+          "name": "Francisco Sales",
+          "age": 30,
+          "job": "Tech Lead",
+          "project": "Mosano"
+        },
+        {
+          "id": 3,
+          "name": "José Moreira",
+          "age": 30,
+          "job": "Tech Lead",
+          "project": "Mosano"
+        }
+      ]
+    },
 }
