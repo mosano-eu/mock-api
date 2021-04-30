@@ -4,6 +4,6 @@
     "name": "string",
     "age": "int",
     "job": "string",
-    "project": "string",
+    "project": "string"
   }
 }
